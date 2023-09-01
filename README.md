@@ -1,4 +1,2 @@
 # MEMO025
-
-thrift;
-vhdl;
+vhdl/thrift
